@@ -1,0 +1,6 @@
+endereço: texto
+telefone: numero inteiro
+salario: numero real
+CPF: numero inteiro
+preço: numero real
+temperatura:
